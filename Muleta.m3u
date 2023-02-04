@@ -1059,40 +1059,6 @@ http://iptv365.xyz:80/0862494178/7508750342/18415
 http://iptv365.xyz:80/0862494178/7508750342/35732
 #EXTINF:-1 tvg-id="ten.es" tvg-name="ES| TEN SD" tvg-logo="https://lo1.in/sp/ten.png" group-title="EU | SPAIN SD",ES| TEN SD
 http://iptv365.xyz:80/0862494178/7508750342/35733
-#EXTINF:-1 tvg-id="" tvg-name="âœ¦â—âœ¦DAZNâœ¦â—âœ¦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",âœ¦â—âœ¦DAZNâœ¦â—âœ¦
-http://iptv365.xyz:80/0862494178/7508750342/400479671
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘A SD
-http://iptv365.xyz:80/0862494178/7508750342/400218246
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn2.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A SD
-http://iptv365.xyz:80/0862494178/7508750342/400218228
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn3.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A SD
-http://iptv365.xyz:80/0862494178/7508750342/400218227
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn4.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A SD
-http://iptv365.xyz:80/0862494178/7508750342/400218226
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘AÂ HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘AÂ HD
-http://iptv365.xyz:80/0862494178/7508750342/165068
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A HD
-http://iptv365.xyz:80/0862494178/7508750342/165070
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A HD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A HD
-http://iptv365.xyz:80/0862494178/7508750342/379046
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A HD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A HD
-http://iptv365.xyz:80/0862494178/7508750342/379047
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘A FHD
-http://iptv365.xyz:80/0862494178/7508750342/360194
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A FHD
-http://iptv365.xyz:80/0862494178/7508750342/360195
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A FHD
-http://iptv365.xyz:80/0862494178/7508750342/379042
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A FHD
-http://iptv365.xyz:80/0862494178/7508750342/379043
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘A HEVC
-http://iptv365.xyz:80/0862494178/7508750342/360196
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A HEVC
-http://iptv365.xyz:80/0862494178/7508750342/360197
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A HEVC
-http://iptv365.xyz:80/0862494178/7508750342/379044
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A HEVC
-http://iptv365.xyz:80/0862494178/7508750342/379045
 #EXTINF:-1 tvg-id="" tvg-name="âœ¦â—âœ¦DAZN THE LEAGUEâœ¦â—âœ¦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",âœ¦â—âœ¦DAZN THE LEAGUEâœ¦â—âœ¦
 http://iptv365.xyz:80/0862494178/7508750342/400479670
 #EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="EU | SPAIN SPORTS",ES| DAZN LA LIGA SD
@@ -1119,6 +1085,18 @@ http://iptv365.xyz:80/0862494178/7508750342/165885
 http://iptv365.xyz:80/0862494178/7508750342/400267408
 #EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 FHD" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 FHD
 http://iptv365.xyz:80/0862494178/7508750342/187554
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA HEVC" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA HEVC
+http://iptv365.xyz:80/0862494178/7508750342/189459
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA 4K" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 4K
+http://iptv365.xyz:80/0862494178/7508750342/400241867
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES| M+ LALIGATV BAR HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR HEVC
+http://iptv365.xyz:80/0862494178/7508750342/187567
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 HEVC" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 HEVC
+http://iptv365.xyz:80/0862494178/7508750342/9460
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 HEVC" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 HEVC
+http://iptv365.xyz:80/0862494178/7508750342/9461
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 HEVC" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 3 HEVC
+http://iptv365.xyz:80/0862494178/7508750342/9462
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 SD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 SD
 http://iptv365.xyz:80/0862494178/7508750342/400218242
 #EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 SD" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 SD
@@ -1351,18 +1329,6 @@ http://iptv365.xyz:80/0862494178/7508750342/189465
 http://iptv365.xyz:80/0862494178/7508750342/165976
 #EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES| M+ GOLF HEVC" tvg-logo="https://lo1.in/sp/mvstgolf.png" group-title="EU | SPAIN SPORTS",ES| M+ GOLF HEVC
 http://iptv365.xyz:80/0862494178/7508750342/189461
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA HEVC" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA HEVC
-http://iptv365.xyz:80/0862494178/7508750342/189459
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA 4K" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 4K
-http://iptv365.xyz:80/0862494178/7508750342/400241867
-#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES| M+ LALIGATV BAR HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR HEVC
-http://iptv365.xyz:80/0862494178/7508750342/187567
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 HEVC" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 HEVC
-http://iptv365.xyz:80/0862494178/7508750342/9460
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 HEVC" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 HEVC
-http://iptv365.xyz:80/0862494178/7508750342/9461
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 HEVC" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 3 HEVC
-http://iptv365.xyz:80/0862494178/7508750342/9462
 #EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES| M+ DEPORTES HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ DEPORTES HEVC
 http://iptv365.xyz:80/0862494178/7508750342/189463
 #EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES| M+ DEPORTES 1 HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ DEPORTES 1 HEVC
@@ -1375,6 +1341,40 @@ http://iptv365.xyz:80/0862494178/7508750342/400485113
 http://iptv365.xyz:80/0862494178/7508750342/400485114
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ SUPERCOPA DE ESPAÃ‘A HEVC" tvg-logo="" group-title="EU | SPAIN SPORTS",ES| M+ SUPERCOPA DE ESPAÃ‘A HEVC
 http://iptv365.xyz:80/0862494178/7508750342/400485115
+#EXTINF:-1 tvg-id="" tvg-name="âœ¦â—âœ¦DAZNâœ¦â—âœ¦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",âœ¦â—âœ¦DAZNâœ¦â—âœ¦
+http://iptv365.xyz:80/0862494178/7508750342/400479671
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘A SD
+http://iptv365.xyz:80/0862494178/7508750342/400218246
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn2.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A SD
+http://iptv365.xyz:80/0862494178/7508750342/400218228
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn3.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A SD
+http://iptv365.xyz:80/0862494178/7508750342/400218227
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn4.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A SD
+http://iptv365.xyz:80/0862494178/7508750342/400218226
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘AÂ HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘AÂ HD
+http://iptv365.xyz:80/0862494178/7508750342/165068
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A HD
+http://iptv365.xyz:80/0862494178/7508750342/165070
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A HD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A HD
+http://iptv365.xyz:80/0862494178/7508750342/379046
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A HD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A HD
+http://iptv365.xyz:80/0862494178/7508750342/379047
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘A FHD
+http://iptv365.xyz:80/0862494178/7508750342/360194
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A FHD
+http://iptv365.xyz:80/0862494178/7508750342/360195
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A FHD
+http://iptv365.xyz:80/0862494178/7508750342/379042
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A FHD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A FHD
+http://iptv365.xyz:80/0862494178/7508750342/379043
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 1 ESPAÃ‘A HEVC
+http://iptv365.xyz:80/0862494178/7508750342/360196
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN 2 ESPAÃ‘A HEVC
+http://iptv365.xyz:80/0862494178/7508750342/360197
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 3 ESPAÃ‘A HEVC
+http://iptv365.xyz:80/0862494178/7508750342/379044
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÃ‘A HEVC" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="EU | SPAIN SPORTS",ES| DAZN 4 ESPAÃ‘A HEVC
+http://iptv365.xyz:80/0862494178/7508750342/379045
 #EXTINF:-1 tvg-id="" tvg-name="âœ¦â—âœ¦FORMULA 1âœ¦â—âœ¦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",âœ¦â—âœ¦FORMULA 1âœ¦â—âœ¦
 http://iptv365.xyz:80/0862494178/7508750342/400479666
 #EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÃ‘A SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÃ‘A SD
