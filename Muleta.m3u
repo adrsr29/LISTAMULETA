@@ -1111,6 +1111,52 @@ http://iptv365.xyz:80/0862494178/7508750342/400440767
 http://iptv365.xyz:80/0862494178/7508750342/400440766
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="EU | SPAIN SPORTS",ES| DAZN LA LIGA 2 FHD
 http://iptv365.xyz:80/0862494178/7508750342/400440765
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA SD
+http://iptv365.xyz:80/0862494178/7508750342/400218244
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA FHD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA FHD
+http://iptv365.xyz:80/0862494178/7508750342/165885
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| M+ LALIGATV BAR FHD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR FHD
+http://iptv365.xyz:80/0862494178/7508750342/400267408
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 FHD" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 FHD
+http://iptv365.xyz:80/0862494178/7508750342/187554
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 SD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 SD
+http://iptv365.xyz:80/0862494178/7508750342/400218242
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 SD" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 SD
+http://iptv365.xyz:80/0862494178/7508750342/400218243
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 SD" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 3 SD
+http://iptv365.xyz:80/0862494178/7508750342/400218241
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES| M+ LALIGA 4 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 4 SD
+http://iptv365.xyz:80/0862494178/7508750342/1250
+#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="ES| M+ LALIGA 5 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 5 SD
+http://iptv365.xyz:80/0862494178/7508750342/1249
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 6 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 6 SD
+http://iptv365.xyz:80/0862494178/7508750342/10820
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 7 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 7 SD
+http://iptv365.xyz:80/0862494178/7508750342/10819
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 8 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 8 SD
+http://iptv365.xyz:80/0862494178/7508750342/10818
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 9 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 9 SD
+http://iptv365.xyz:80/0862494178/7508750342/10817
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 10 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 10 SD
+http://iptv365.xyz:80/0862494178/7508750342/10816
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 FHD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 FHD
+http://iptv365.xyz:80/0862494178/7508750342/187555
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 FHD" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 3 FHD
+http://iptv365.xyz:80/0862494178/7508750342/187556
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES| M+ LALIGA 4 FHD" tvg-logo="https://lo1.in/sp/mvstlg4.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 4 FHD
+http://iptv365.xyz:80/0862494178/7508750342/187557
+#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="ES| M+ LALIGA 5 FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/sp/mvstlg5.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 5 FHD (SOLO EVENTO)
+http://iptv365.xyz:80/0862494178/7508750342/187558
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="ES| M+ LALIGA 6 FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/sp/mvstlg6.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 6 FHD (SOLO EVENTO)
+http://iptv365.xyz:80/0862494178/7508750342/187559
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="ES| M+ LALIGA 7 FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/sp/mvstlg7.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 7 FHD (SOLO EVENTO)
+http://iptv365.xyz:80/0862494178/7508750342/187560
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 8 FHD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 8 FHD
+http://iptv365.xyz:80/0862494178/7508750342/400407285
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 9 FHD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 9 FHD
+http://iptv365.xyz:80/0862494178/7508750342/400407284
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 10 FHD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 10 FHD
+http://iptv365.xyz:80/0862494178/7508750342/400407283
 #EXTINF:-1 tvg-id="" tvg-name="âœ¦â—âœ¦MOVISTAR CHAMPIONS LEAGUEâœ¦â—âœ¦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",âœ¦â—âœ¦MOVISTAR CHAMPIONS LEAGUEâœ¦â—âœ¦
 http://iptv365.xyz:80/0862494178/7508750342/400479669
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 1 SD
@@ -1219,28 +1265,6 @@ http://iptv365.xyz:80/0862494178/7508750342/400479667
 http://iptv365.xyz:80/0862494178/7508750342/400218236
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ ELLAS SD" tvg-logo="https://lo1.in/sp/mplsellas.png" group-title="EU | SPAIN SPORTS",ES| M+ ELLAS SD
 http://iptv365.xyz:80/0862494178/7508750342/10823
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA SD
-http://iptv365.xyz:80/0862494178/7508750342/400218244
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 SD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 SD
-http://iptv365.xyz:80/0862494178/7508750342/400218242
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 SD" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 SD
-http://iptv365.xyz:80/0862494178/7508750342/400218243
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 SD" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 3 SD
-http://iptv365.xyz:80/0862494178/7508750342/400218241
-#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES| M+ LALIGA 4 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 4 SD
-http://iptv365.xyz:80/0862494178/7508750342/1250
-#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="ES| M+ LALIGA 5 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 5 SD
-http://iptv365.xyz:80/0862494178/7508750342/1249
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 6 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 6 SD
-http://iptv365.xyz:80/0862494178/7508750342/10820
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 7 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 7 SD
-http://iptv365.xyz:80/0862494178/7508750342/10819
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 8 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 8 SD
-http://iptv365.xyz:80/0862494178/7508750342/10818
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 9 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 9 SD
-http://iptv365.xyz:80/0862494178/7508750342/10817
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA 10 SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 10 SD
-http://iptv365.xyz:80/0862494178/7508750342/10816
 #EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES| M+ DEPORTES SD" tvg-logo="https://lo1.in/sp/multidepo.png" group-title="EU | SPAIN SPORTS",ES| M+ DEPORTES SD
 http://iptv365.xyz:80/0862494178/7508750342/400218240
 #EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES| M+ DEPORTES 1 SD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ DEPORTES 1 SD
@@ -1261,20 +1285,6 @@ http://iptv365.xyz:80/0862494178/7508750342/18405
 http://iptv365.xyz:80/0862494178/7508750342/165972
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ ELLAS HD" tvg-logo="https://lo1.in/sp/mplsellas.png" group-title="EU | SPAIN SPORTS",ES| M+ ELLAS HD
 http://iptv365.xyz:80/0862494178/7508750342/10824
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA HD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA HD
-http://iptv365.xyz:80/0862494178/7508750342/165970
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| M+ LALIGATV BAR HD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR HD
-http://iptv365.xyz:80/0862494178/7508750342/400220778
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 1 HD" tvg-logo="https://lo1.in/sp/mvstlg1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 1 HD
-http://iptv365.xyz:80/0862494178/7508750342/165971
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 HD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 HD
-http://iptv365.xyz:80/0862494178/7508750342/5971
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 HD" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 3 HD
-http://iptv365.xyz:80/0862494178/7508750342/5973
-#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="ES| M+ LALIGA 5 HD" tvg-logo="https://lo1.in/sp/mvstlg6.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 5 HD
-http://iptv365.xyz:80/0862494178/7508750342/400220783
-#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES| M+ LALIGA 4 HD" tvg-logo="https://lo1.in/sp/mvstlg4.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 4 HD
-http://iptv365.xyz:80/0862494178/7508750342/400220785
 #EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES| M+ DEPORTES HD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ DEPORTES HD
 http://iptv365.xyz:80/0862494178/7508750342/165974
 #EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES| M+ DEPORTES 1 HD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ DEPORTES 1 HD
